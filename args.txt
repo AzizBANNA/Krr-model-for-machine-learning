@@ -1,0 +1,5 @@
+I think this code could be improved using cross validation to better
+organize the test and train data and extract the model with the best performance to use.
+In fact we could choose the most accurate test/train sample of data and use it to get the approximation.
+
+Another way of improving the model is by collecting more Data to ensure the model is well trained and the error will be minimized.
